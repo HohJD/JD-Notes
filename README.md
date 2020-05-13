@@ -46,7 +46,6 @@ Gitlab - Company use, codes are only share to developers in company
 
 Cybersecurity
 -Mostly python, can find bugs in big company website, firewall protect websites & all.
--Didnt touch much yet, but plan to focus on it one day
 
 Data Science/ Database
 Programming language used is R programming and Python
@@ -54,21 +53,6 @@ Programming language used is R programming and Python
 -Google store their data at Data Centre
 -SQL (structured query language, means database is structured form, e.g. excel, all word files)
 -NoSQL (Non structured, means database in all kind of forms e.g. pdf, jpeg, word.. blablabla
-
-Resources
--Join Student developer club at ur Uni, by Google. Normally learn about Google Tech, such as Flutter, Firebase, GCP, and TensorFLow
--Join any fb groups about all these tech, so you can keep up with the trend
--Use StackOverflow to ask questions
--Read Medium websites(Got App also), full of juice, start-ups and programmers heaven
--How companies, developers communicate Apps(Slack, Discord-Sgt jarang for companies)
--How companies divide task use Scrum method, agile, waterflow model is old trend (ClickUp, Trello)
--Practice coding platforms 
-LeetCode (Hard)
-Hackerrank(Hard)
-Codecamp (Easy, got cert but Java macam xde, only Javascript, HTML, CSS)
-Udacity (Easy)
-Sololearn (Too easy, only play for fun)
-Codelab is the best for Android developing
 
 
 Trends in 2020 
